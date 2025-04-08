@@ -1,0 +1,36 @@
+© 2021 Motion Picture Laboratories, Inc. This material for the MovieLabs
+Visual Language for Media Creation v1.0 is licensed under the Creative
+Commons Attribution 4.0 International License.
+
+Additional Permissions (CC+): We recognize that it may be impractical to
+provide attribution in connection with each individual use of the
+iconography and shapes in this document. As such, we are hereby waiving the
+attribution requirements of the Creative Commons Attribution 4.0
+International License solely with respect to any uses of this iconography.
+We will not be requiring attribution for such uses, although we would
+welcome attribution when reasonably possible.
+
+Except as specifically stated above, all of the terms and conditions of the
+Creative Commons Attribution 4.0 International License will apply to any
+sharing, reproduction or other use of this document.
+
+---------------------------------------------------------------------------
+Creative Commons Attribution 4.0 International License (CC BY 4.0) – Summary
+
+You are generally free to copy and redistribute the material in any medium
+or format, and remix, transform, and build upon the material for any
+purpose, even commercially, under the following conditions:
+
+    • Attribution: You must give appropriate credit to MovieLabs, provide a
+      link to the license, and indicate if you made changes to the material.
+      You may do so in any reasonable manner, but not in any way that
+      suggests that MovieLabs endorses you or your use of the materials.
+
+    • No Additional Restrictions: You may not apply legal terms or
+      technological measures that legally restrict others from doing
+      anything the license permits.
+
+Note: The above text is a human-readable summary of (and not a substitute
+for) the license, which can be found at:
+http://creativecommons.org/licenses/by/4.0/.
+
