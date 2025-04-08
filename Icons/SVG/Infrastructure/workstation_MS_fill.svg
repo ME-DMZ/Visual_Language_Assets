@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 36">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <path class="a" d="M43,38H41a2,2,0,0,0-2,2v2h6V40A2,2,0,0,0,43,38Z" transform="translate(-2 -7)"/>
+      <rect class="a" width="46" height="28" rx="4"/>
+    </g>
+    <g>
+      <path d="M43,37H41a3,3,0,0,0-3,3v3h8V40A3,3,0,0,0,43,37Zm1,4H40V40a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1Z" transform="translate(-2 -7)"/>
+      <path d="M44,7H6a4,4,0,0,0-4,4V31a4,4,0,0,0,4,4H20.72l-1.5,6H15a1,1,0,0,0,0,2H35a1,1,0,0,0,0-2H30.78l-1.5-6H44a4,4,0,0,0,4-4V11A4,4,0,0,0,44,7ZM21.28,41l1.5-6h4.44l1.5,6ZM46,31a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2V11A2,2,0,0,1,6,9H44a2,2,0,0,1,2,2Z" transform="translate(-2 -7)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 36">
+  <g>
+    <path d="M41,7H36a1,1,0,0,0-1,1V42a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V8A1,1,0,0,0,41,7ZM40,41H37V9h3Z" transform="translate(-8 -7)"/>
+    <path d="M32,16H27a1,1,0,0,0-1,1V42a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V17A1,1,0,0,0,32,16ZM31,41H28V18h3Z" transform="translate(-8 -7)"/>
+    <path d="M23,25H18a1,1,0,0,0-1,1V42a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V26A1,1,0,0,0,23,25ZM22,41H19V27h3Z" transform="translate(-8 -7)"/>
+    <path d="M14,34H9a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V35A1,1,0,0,0,14,34Zm-1,7H10V36h3Z" transform="translate(-8 -7)"/>
+  </g>
+</svg>

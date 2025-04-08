@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 36">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="46" height="36" rx="4"/>
+    <path d="M44,7H6a4,4,0,0,0-4,4V39a4,4,0,0,0,4,4H44a4,4,0,0,0,4-4V11A4,4,0,0,0,44,7ZM6,9H44a2,2,0,0,1,2,2v4.51L25,31.74,4,15.51V11A2,2,0,0,1,6,9ZM44,41H6a2,2,0,0,1-2-2V18L25,34.26,46,18V39A2,2,0,0,1,44,41Z" transform="translate(-2 -7)"/>
+  </g>
+</svg>

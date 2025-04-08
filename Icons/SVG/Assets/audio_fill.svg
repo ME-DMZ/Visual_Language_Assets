@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 36">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="a" x="1" y="1" width="44" height="34" rx="4"/>
+  <g>
+    <path d="M25,30a1,1,0,0,1-1-1V21a1,1,0,0,1,2,0v8A1,1,0,0,1,25,30Z" transform="translate(-2 -7)"/>
+    <path d="M29,34a1,1,0,0,1-1-1V17a1,1,0,0,1,2,0V33A1,1,0,0,1,29,34Z" transform="translate(-2 -7)"/>
+    <path d="M21,34a1,1,0,0,1-1-1V17a1,1,0,0,1,2,0V33A1,1,0,0,1,21,34Z" transform="translate(-2 -7)"/>
+    <path d="M33,38a1,1,0,0,1-1-1V13a1,1,0,0,1,2,0V37A1,1,0,0,1,33,38Z" transform="translate(-2 -7)"/>
+    <path d="M17,38a1,1,0,0,1-1-1V13a1,1,0,0,1,2,0V37A1,1,0,0,1,17,38Z" transform="translate(-2 -7)"/>
+    <path d="M37,34a1,1,0,0,1-1-1V17a1,1,0,0,1,2,0V33A1,1,0,0,1,37,34Z" transform="translate(-2 -7)"/>
+    <path d="M13,34a1,1,0,0,1-1-1V17a1,1,0,0,1,2,0V33A1,1,0,0,1,13,34Z" transform="translate(-2 -7)"/>
+    <path d="M41,30a1,1,0,0,1-1-1V21a1,1,0,0,1,2,0v8A1,1,0,0,1,41,30Z" transform="translate(-2 -7)"/>
+    <path d="M9,30a1,1,0,0,1-1-1V21a1,1,0,0,1,2,0v8A1,1,0,0,1,9,30Z" transform="translate(-2 -7)"/>
+    <path d="M44,9a2,2,0,0,1,2,2V39a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2V11A2,2,0,0,1,6,9H44m0-2H6a4,4,0,0,0-4,4V39a4,4,0,0,0,4,4H44a4,4,0,0,0,4-4V11a4,4,0,0,0-4-4Z" transform="translate(-2 -7)"/>
+  </g>
+</svg>
